@@ -1,3 +1,0 @@
-2026-02-22 20:15:08.314148-03:00 jdbc[13]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]NAME"; SQL statement:
-NAME [42000-240]
